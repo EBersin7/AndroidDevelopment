@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bitcoin Dashboard</string>
+
+    <string name="navigation_drawer_open">Open Nav Drawer</string>
+    <string name="navigation_drawer_close">Close Nav Drawer</string>
+
+    <string name="bitcoinPrice">Bitcoin Price</string>
+    <string name="bitcoinCharts">Bitcoin Charts</string>
+    <string name="bitcoinBlock">Bitcoin Block</string>
+    <string name="bitcoinAddress">Bitcoin Address</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bitcoinGraphs">Bitcoin Chart</string>
+    <string name="blockInfo">Block Info</string>
+    <string name="addrInfo">Address Info</string>
+</resources>
